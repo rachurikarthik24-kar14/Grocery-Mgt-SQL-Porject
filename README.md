@@ -5,10 +5,10 @@
 This project is a Recruitment Management System built using MySQL. It demonstrates the design and implementation of a relational database to manage recruitment-related data efficiently while applying SQL concepts to generate meaningful business insights.
 
 # Objectives
-• Design a relational database using MySQL.
-• Build relationships using Primary Keys and Foreign Keys.
-• Perform data analysis using SQL queries.
-• Generate business insights from structured data.
+- Design a relational database using MySQL.
+- Build relationships using Primary Keys and Foreign Keys.
+- Perform data analysis using SQL queries.
+- Generate business insights from structured data.
 
 # Technologies Used
 • MySQL
