@@ -6,7 +6,6 @@ This project is a Recruitment Management System built using MySQL. It demonstrat
 
 # Objectives
 • Design a relational database using MySQL.
-
 • Build relationships using Primary Keys and Foreign Keys.
 • Perform data analysis using SQL queries.
 • Generate business insights from structured data.
@@ -26,14 +25,14 @@ The database consists of 7 interconnected tables with properly defined relations
 • Performed business-oriented data analysis.
 
 # SQL Concepts Used
-• INNER JOIN
-• LEFT JOIN
-• RIGHT JOIN
-• Aggregate Functions (COUNT, SUM, AVG, MIN, MAX)
-• GROUP BY
-• HAVING
-• WHERE
-• ORDER BY
+• INNER JOIN.
+• LEFT JOIN.
+• RIGHT JOIN.
+• Aggregate Functions (COUNT, SUM, AVG, MIN, MAX).
+• GROUP BY.
+• HAVING.
+• WHERE.
+• ORDER BY.
 • Subqueries.
 
 # Business Insights
